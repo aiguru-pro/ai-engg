@@ -1,7 +1,7 @@
 # Week 1: LLMs and Prompt Engineering
 
 ## Research Papers
-1. [Constitutional AI: A Framework for Machine Learning Systems](https://arxiv.org/abs/2310.07124)
+1. [Constitutional AI: A Framework for Machine Learning Systems](https://arxiv.org/abs/2212.08073)
    - Authors: Anthropic Research Team
    - Year: 2023
    - Key topics: AI safety, model behavior control, ethical AI development
