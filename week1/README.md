@@ -27,7 +27,7 @@
 ### Few-Shot Learning Techniques
 - In-context learning strategies
 - Example selection methods
-- [LangChain Few-Shot Templates](https://python.langchain.com/docs/modules/model_io/prompts/few_shot_examples)
+- [LangChain Few-Shot Templates](https://python.langchain.com/docs/how_to/few_shot_examples/)
 
 ### Prompt Automation and Optimization
 - Automated prompt generation
