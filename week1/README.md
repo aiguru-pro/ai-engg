@@ -57,8 +57,12 @@
 1. [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 2. [Andrej Karpathy - State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-## Practice Projects
-1. Basic Code Review Assistant using prompt engineering
-   - Input: Code snippet
-   - Output: Code review comments and suggestions
-   - Focus: Prompt design for technical analysis
+## Practice Projects: AI-Powered Technical Documentation Assistant
+1. Week 1 - Prompt Engineering Foundation:
+
+- Create a basic documentation assistant that can:
+
+   - Answer questions about coding best practices
+   - Generate code examples
+   - Explain technical concepts
+
