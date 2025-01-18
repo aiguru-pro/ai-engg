@@ -41,5 +41,8 @@ Each week's folder contains:
 - Understanding of machine learning fundamentals
 - Familiarity with deep learning concepts
 
+## Optional 
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+
 ## Contributing
 Feel free to submit pull requests or raise issues if you find any errors or have suggestions for additional resources.
