@@ -33,7 +33,7 @@
 - Automated prompt generation
 - A/B testing frameworks
 - [Microsoft Prompt Flow](https://github.com/microsoft/promptflow)
-- [LlamaIndex Prompt Optimization](https://docs.llamaindex.ai/en/stable/optimizing/prompts.html)
+- [LlamaIndex Prompt](https://docs.llamaindex.ai/en/stable/module_guides/models/prompts/)
 
 ### Context Window Innovations
 - Claude's 200K token context
