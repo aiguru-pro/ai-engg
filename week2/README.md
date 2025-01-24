@@ -2,26 +2,26 @@
 
 ## Research Papers
 
-1. [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
-   - Authors: Meta AI Research
-   - Year: 2023
-   - Key topics: Self-reflective retrieval, Adaptive RAG systems, Response quality improvement
+# Research Papers on Retrieval-Augmented Generation (RAG)
 
-2. [ReAct Meets RAG: Neurally-Guided Retrieval of Relevant Information](https://arxiv.org/abs/2312.12343)
-   - Authors: Google Research
-   - Year: 2023
-   - Key topics: Dynamic information retrieval, Reasoning-action framework integration
+## 1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401)
+- **Authors:** Patrick Lewis, Ethan Perez, Aleksandra Piktus, et al.
+- **Summary:** 
+  This foundational paper introduces the RAG framework, combining pre-trained sequence-to-sequence models with a retrieval component to enhance performance on knowledge-intensive tasks. The authors demonstrate that RAG models outperform traditional architectures in open-domain question answering and other applications.
 
-3. [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/abs/2312.02210)
-   - Authors: Microsoft Research
-   - Year: 2023
-   - Key topics: Zero-shot dense retrieval, Embedding optimization
+---
 
-4. [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210)
-   - Authors: Microsoft Research
-   - Year: 2023
-   - Key topics: Information extraction, Note-taking mechanisms, Retrieval robustness
+## 2. [Retrieval-Augmented Generation for AI-Generated Content: A Survey (2024)](https://arxiv.org/abs/2402.19473)
+- **Authors:** Penghao Zhao, Hailin Zhang, Qinhan Yu, et al.
+- **Summary:** 
+  This survey provides a comprehensive review of existing efforts that integrate RAG techniques into AI-generated content scenarios. It classifies RAG foundations, discusses enhancement methods, and explores practical applications across different modalities and tasks.
 
+---
+
+## 3. [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions (2024)](https://arxiv.org/abs/2410.12837)
+- **Authors:** Shailja Gupta, Rajesh Ranjan, Surya Narayan Singh
+- **Summary:** 
+  This paper presents a detailed study of RAG, tracing its evolution from foundational concepts to the current state of the art. It explores the basic architecture of RAG, significant technological advancements, applications across various domains, and discusses ongoing challenges and future research directions.
 ## Current Trends
 
 ### Vector Databases and Embeddings
@@ -74,9 +74,9 @@
 ## Additional Resources
 
 ### Tutorials
-1. [LangChain RAG Overview](https://python.langchain.com/docs/use_cases/question_answering/)
+1. [LangChain RAG Overview](https://python.langchain.com/docs/concepts/rag/)
 2. [LlamaIndex RAG Guide](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
-3. [Anthropic's RAG Best Practices](https://docs.anthropic.com/claude/docs/retrieval-augmented-generation-rag)
+3. [Anthropic's Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval)
 
 ### Tools
 1. [ChromaDB](https://www.trychroma.com/)
@@ -84,10 +84,19 @@
 3. [Weaviate](https://weaviate.io/)
 4. [LangChain](https://github.com/langchain-ai/langchain)
 
-### Videos
-1. [Building RAG Applications with LangChain](https://www.youtube.com/watch?v=LhnCsygAvzY)
-2. [Advanced RAG Techniques](https://www.youtube.com/watch?v=TRjq7t2Ms5U)
-3. [Stanford Seminar - Retrieval Augmented Generation](https://www.youtube.com/watch?v=QK2tGQWxTFc)
+# Videos on Retrieval-Augmented Generation (RAG)
+
+## 1. [What is Retrieval-Augmented Generation (RAG)?](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+- **Published:** Approximately 1.4 years ago
+- **Summary:** This video provides an overview of RAG, explaining how large language models can be enhanced by integrating retrieval mechanisms to access up-to-date and trustworthy information. It discusses the benefits of combining retrieval with generation to improve the accuracy and reliability of AI outputs.
+
+## 2. [How to use Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=oVtlp72f9NQ)
+- **Published:** About 3 months ago
+- **Summary:** This video delves into the practical applications of RAG, demonstrating how to implement retrieval-augmented generation in AI applications. It covers the components, benefits, and steps involved in a basic RAG workflow, providing a hands-on approach to understanding and utilizing RAG in real-world scenarios.
+
+## 3. [For dummies: Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=_U7j6BgLNto)
+- **Published:** Date not specified
+- **Summary:** Aimed at beginners, this video breaks down the basic RAG pipeline and showcases it in action through a hands-on example. It's designed to help those new to the concept grasp the fundamentals of RAG and see its practical implementation.
 
 ## Practice Project: Enhanced Documentation Assistant
 
