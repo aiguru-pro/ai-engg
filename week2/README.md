@@ -94,9 +94,9 @@
 - **Published:** About 3 months ago
 - **Summary:** This video delves into the practical applications of RAG, demonstrating how to implement retrieval-augmented generation in AI applications. It covers the components, benefits, and steps involved in a basic RAG workflow, providing a hands-on approach to understanding and utilizing RAG in real-world scenarios.
 
-## 3. [For dummies: Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=_U7j6BgLNto)
-- **Published:** Date not specified
-- **Summary:** Aimed at beginners, this video breaks down the basic RAG pipeline and showcases it in action through a hands-on example. It's designed to help those new to the concept grasp the fundamentals of RAG and see its practical implementation.
+## 3. [Stanford CS25: V3 I Retrieval Augmented Language Models (RAG)](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+- **Published:** December, 2023
+- **Summary:** Language models have led to amazing progress, but they also have important shortcomings. One solution for many of these shortcomings is retrieval augmentation. I will introduce the topic, survey recent literature on retrieval augmented language models and finish with some of the main open questions.
 
 ## Practice Project: Enhanced Documentation Assistant
 
