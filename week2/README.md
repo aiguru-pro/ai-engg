@@ -83,6 +83,11 @@
 2. [FAISS](https://github.com/facebookresearch/faiss)
 3. [Weaviate](https://weaviate.io/)
 4. [LangChain](https://github.com/langchain-ai/langchain)
+5. [RAGAS](https://docs.ragas.io/en/stable/)
+6. [Chunk Visualization](https://chunkviz.up.railway.app/)
+
+### Benchmarks
+1. [MTEB - Embedding Model Leaderboard ](https://huggingface.co/spaces/mteb/leaderboard)
 
 # Videos on Retrieval-Augmented Generation (RAG)
 
