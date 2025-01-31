@@ -2,7 +2,7 @@
 
 ## Prerequisite Reading before the class
 
-- [Model Training Guide](model-traininig-guide.md)
+- [Model Training Guide](model-training-guide.md)
 - [Understanding Parameters & Configurations](params_config.md)
 
 ## Research Papers
