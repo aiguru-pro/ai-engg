@@ -149,9 +149,9 @@
 3. [TensorFlow Fine-tuning Guide](https://www.tensorflow.org/text/tutorials/fine_tune_bert)
 
 ### Example Notebooks
-1. [LoRA Fine-tuning Example](https://github.com/huggingface/peft/blob/main/examples/token_classification/peft_lora_token_classification.ipynb)
-2. [QLoRA Implementation](https://github.com/artidoro/qlora/blob/main/scripts/finetune.py)
-3. [Instruction Tuning Demonstration](https://github.com/huggingface/trl/blob/main/examples/instruction_tuning.ipynb)
+1. [LoRA Fine-tuning Example](https://github.com/huggingface/peft/tree/main/examples)
+2. [QLoRA Implementation](https://github.com/artidoro/qlora/tree/main)
+3. [Instruction Tuning Demonstration](https://github.com/huggingface/trl/tree/main/examples)
 
 ## Practice Project: Corporate Documentation Assistant
 
