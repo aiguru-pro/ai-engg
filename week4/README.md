@@ -13,13 +13,13 @@
 - **Summary:**
   Introduces the ReAct framework that combines reasoning and acting in language models, enabling more reliable and interpretable task-solving. This has become a foundational approach for building AI agents.
 
-### 2. [LangChain: Building Applications with LLMs through Composability (2023)](https://arxiv.org/abs/2308.08620)
+### 2. [LangChain: Building Applications with LLMs through Composability (2023)](https://medium.com/towards-data-science/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 
 - **Authors:** Harrison Chase, et al.
 - **Summary:**
   Describes the architecture and principles behind LangChain, a popular framework for building LLM applications. Discusses composability, chains, and agents in practical applications.
 
-### 3. [Challenges and Applications of Large Language Models (2024)](https://arxiv.org/abs/2307.08723)
+### 3. [Challenges and Applications of Large Language Models (2024)](https://arxiv.org/abs/2307.10169)
 
 - **Authors:** Wayne Xin Zhao, Kun Zhou, Junyi Li, et al.
 - **Summary:**
