@@ -1,5 +1,20 @@
 # Week 4: LLM Deployment and Agentic Systems
 
+## Directory Documentation
+This week's content is organized into two main subdirectories, each with its own detailed documentation:
+
+1. [Deployment Guide](deploy/README.md)
+   - Technical documentation for Mistral-7B model deployment
+   - vLLM and FastAPI implementation
+   - Performance optimization and monitoring
+   - Security considerations
+
+2. [Design Patterns](design-patterns/README.md)
+   - Real-world AI system architectures
+   - Case studies from Harvey and Klarna
+   - Detailed implementation examples
+   - Best practices and patterns
+
 ## Prerequisite Reading before the class
 
 - [Production LLM Deployment Guide](deployment-guide.md)
