@@ -5,7 +5,7 @@
 ### Foundation Models
 
 #### OpenAI Models
-- **GPT-4o**
+- **GPT-4o** 
   - Best for: Enterprise-grade applications requiring high reliability
   - Key features: Strong reasoning, consistent outputs
   - Cost: Higher pricing tier

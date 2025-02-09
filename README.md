@@ -41,6 +41,9 @@ Each week's folder contains:
 - Understanding of machine learning fundamentals
 - Familiarity with deep learning concepts
 
+## Tools and Techniques
+- [Tools and Technologies Guide](./tools-tech-referenece-guide.md)
+
 ## Optional 
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 
