@@ -11,6 +11,8 @@ Based on Harvey's implementation:
 - Successfully processes and analyzes hundreds of thousands of contracts
 - Handles millions of emails for litigation review
 
+![Diagram Title](./images/harvey-seq-diagram.png)
+
 ## Core System Components
 
 ### 1. Custom-Trained Case Law Model
@@ -176,6 +178,13 @@ Based on Harvey's implementation:
 - User interaction simplification
 - Multi-step processing
 - Context maintenance
+
+### More diagrams:
+
+![Diagram Title](./images/harvey-flow-1.png)
+![Diagram Title](./images/harvey-flow-2.png)
+![Diagram Title](./images/harvey-flow-3.png)
+
 
 ## Conclusion
 Harvey's architecture represents a significant advancement in legal AI, demonstrating the value of custom-trained models and sophisticated information processing in the legal domain. The system's success in reducing routine work while maintaining high accuracy and comprehensive legal knowledge makes it a model for future legal technology development.

@@ -13,6 +13,8 @@ Based on Klarna's implementation:
 - Estimated $40 million USD profit improvement (2024)
 - Customer satisfaction scores comparable to human agents
 
+![Diagram Title](./images/klarna-flow-1.png)
+
 ## System Architecture Components
 
 ### 1. User Interaction Layer
